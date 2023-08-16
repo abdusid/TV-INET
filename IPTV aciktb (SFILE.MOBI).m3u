@@ -1,0 +1,731 @@
+#EXTM3U
+
+************Baet Channel*************
+
+//////////////////Lokal///////////////////
+#EXTINF:-1 group-title="Lokal",ID: ANTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165072
+#EXTINF:-1 group-title="Lokal",ID: GTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157578
+#EXTINF:-1 group-title="Lokal",ID: Indosiar
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Lokal",Indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="Lokal",ID: INews
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157579
+#EXTINF:-1 group-title="Lokal",ID: Trans 7
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162502
+#EXTINF:-1 group-title="Lokal",ID: Trans TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162503
+#EXTINF:-1 group-title="Lokal",ID: TV One
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/296214
+#EXTINF:-1 group-title="Lokal",ID: SCTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162141
+#EXTINF:-1 group-title="Lokal",ID: RCTI
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157591
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266805
+#EXTINF:-1 group-title="Lokal",ID: MNC News
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165058
+
+#EXTINF:-1 group-title="Lokal",ID: MNC TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
+#EXTINF:-1 group-title="Lokal",ID: Moji
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298550
+#EXTINF:-1 group-title="Lokal",ID: Mentari TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
+#EXTINF:-1 group-title="Lokal",ID: Metro TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165059
+#EXTINF:-1 group-title="Lokal",ID: Kompas TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165060
+#EXTINF:-1 group-title="Lokal",ID: AXN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165079
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="Lokal", Net tv
+http://rr2.dens.tv/s/s08/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET.
+ 
+#EXTINF:-1 tv-name="ANTV" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="Lokal", ANTV 
+http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="Lokal", RTV
+http://rr1.dens.tv/h/h10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
+
+#EXTINF:-1 tv-name="Elshinta tv" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Lokal", Elshinta tv
+http://rr2.dens.tv/s/s10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Lokal", O Channel
+http://rr2.dens.tv/s/s41/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=MOJI%2FO_CHANNEL
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Lokal", Rodja tv
+http://rr2.dens.tv/s/s14/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Lokal", Daai tv
+http://rr2.dens.tv/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+
+#EXTINF:-1 tv-name="U Channel" tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg" group-title="Lokal", U Channel
+http://rr3.dens.tv/s/s73/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=U-Channel
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="Lokal", TVRI
+http://rr2.dens.tv/s/s11/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="Lokal", JAK TV
+http://rr3.dens.tv/s/s13/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Jak_tv
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="Lokal", Metro tv 
+http://rr.dens.tv/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="Lokal", TV One
+http://rr2.dens.tv/s/s105/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="Lokal" tvg-name"kompas tv", Kompas tv
+http://rr2.dens.tv/s/s104/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="Lokal" tvg-name"Berita Satu", Berita Satu
+http://edge.linknetott.swiftserve.com/channelgroup1/cg1production/ch360/02.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="Lokal", SCTV
+http://rr2.dens.tv/s/s03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="Lokal", Indosiar
+http://rr2.dens.tv/s/s04/01.m3u8
+
+
+""TV LOKAL""
+#EXTINF:-1 group-title="TV LOKAL",ID: ANTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165072
+#EXTINF:-1 group-title="TV LOKAL",ID: GTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157578
+#EXTINF:-1 group-title="TV LOKAL",ID: Indosiar
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
+#EXTINF:-1 group-title="TV LOKAL",ID: INews
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157579
+#EXTINF:-1 group-title="TV LOKAL",ID: Trans 7
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162502
+#EXTINF:-1 group-title="TV LOKAL",ID: Trans TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162503
+#EXTINF:-1 group-title="TV LOKAL",ID: TV One
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/296214
+#EXTINF:-1 group-title="TV LOKAL",ID: SCTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162141
+#EXTINF:-1 group-title="TV LOKAL",ID: RCTI
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157591
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266805
+#EXTINF:-1 group-title="TV LOKAL",ID: MNC News
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165058
+
+#EXTINF:-1 group-title="TV LOKAL",ID: MNC TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
+#EXTINF:-1 group-title="TV LOKAL",ID: Moji
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298550
+#EXTINF:-1 group-title="TV LOKAL",ID: Mentari TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
+#EXTINF:-1 group-title="TV LOKAL",ID: Metro TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165059
+#EXTINF:-1 group-title="TV LOKAL",ID: Kompas TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165060
+#EXTINF:-1 group-title="TV LOKAL",ID: AXN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165079
+
+#EXTINF:-1 group-title="TV LOKAL", mp4a_96000=2.m3u8 
+#EXTINF:-1 group-title="TV LOKAL",SCTV HD
+http://rr2.dens.tv/s/s03/index.m3u8
+
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 group-title="TV LOKAL",ANTV
+http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TV ONE
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV LOKAL",METRO TV 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+
+#EXTINF:-1 group-title="TV LOKAL",NET TV 
+http://rr2.dens.tv/s/s08/index10.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL",MAGNA CHANNEL FHD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="TV LOKAL",MAGNA CHANNEL SD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1837481809_b878000_sleng.m3u8
+#EXTINF:-1 group-title="TV LOKAL",BERITA SATU HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="TV LOKAL", BERITA SATU ENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Biznet LifeStyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Citra Bioskop
+http://tvnasional.mobie.in/M3U8/bioskop.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Citra Drama
+http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="TV LOKAL",DAAI TV
+http://210.210.155.35/session/7627146c-d57e-11eb-a769-b82a72d63267/qwr9ew/s/s13/index.m3u8
+
+#EXTINF:-1 group-title="TV LOKAL",MEGASWARA TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+
+"""MALAYSIA"""
+
+#EXTINF:-1 group-title="MALAYSIA",MY: NTV 7
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/174695
+#EXTINF:-1 group-title="MALAYSIA",MY: RTM TV 1
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/158357
+#EXTINF:-1 group-title="MALAYSIA",MY: RTM TV 2
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/158355
+#EXTINF:-1 group-title="MALAYSIA",MY: TV 3
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/158360
+#EXTINF:-1 group-title="MALAYSIA",MY: TV 9
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/171953
+#EXTINF:-1 group-title="MALAYSIA",MY: Animax
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157486
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Arena
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157485
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Awani
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157478
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Cricket
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157565
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Oasis
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157489
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Prima
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157467
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Ria
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/158347
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro SuperSport
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/146068
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro SuperSport 2
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157556
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro SuperSport 3
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157557
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro SuperSport 4
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157558
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro SuperSport 5
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/287792
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Vaanavil
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/201163
+#EXTINF:-1 group-title="MALAYSIA",MY: Astro Xiao Tai Yang
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/201164
+
+"""SPORT"""
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORT",ID: 01. ETV Live Event
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298491
+#EXTINF:-1 group-title="SPORT",ID: 02. ETV Live Event 02
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298492
+#EXTINF:-1 group-title="SPORT",ID: beIN Sports 1
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
+#EXTINF:-1 group-title="SPORT",ID: beIN Sports 3
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298506
+#EXTINF:-1 group-title="SPORT",ID: Champion TV 1
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298512
+#EXTINF:-1 group-title="SPORT",ID: Champion TV 2
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298513
+#EXTINF:-1 group-title="SPORT",ID: Champion TV 3
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298514
+#EXTINF:-1 group-title="SPORT",ID: MNC Sports
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157589
+#EXTINF:-1 group-title="SPORT",ID: MNC Sports 2
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298548
+#EXTINF:-1 group-title="SPORT",ID: MNC Sports 3
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298549
+
+#EXTINF:-1 group-title="SPORT",ID: SpoTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298570
+#EXTINF:-1 group-title="SPORT",ID: SpoTV 2
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298571
+#EXTINF:-1 group-title="SPORT",ID: Tech Storm
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298572
+#EXTINF:-1 group-title="SPORT",MY: beIN Sports
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157561
+#EXTINF:-1 group-title="SPORT",ID: Fashion TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298530
+#EXTINF:-1 group-title="SPORT",ID: Fight Sport
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298531
+#EXTINF:-1 group-title="SPORT",MY: FOX SPORTS 2
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157488
+
+"""BERITA"""
+
+#EXTINF:-1 group-title="BERITA",ID: Berita Satu
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162513
+#EXTINF:-1 group-title="BERITA",ID: Berita Satu news
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/287421
+#EXTINF:-1 group-title="BERITA",ID: Berita Satu World
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162136
+#EXTINF:-1 group-title="BERITA",ID: Besmart
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165087
+#EXTINF:-1 group-title="BERITA",ID: CNBC Indonesia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165062
+#EXTINF:-1 group-title="BERITA",ID: CNN Indonesia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162137
+#EXTINF:-1 group-title="BERITA",ID: CNN International
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264778
+#EXTINF:-1 group-title="BERITA",ID: Crime+ Investigation
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165052
+#EXTINF:-1 group-title="BERITA",ID: Da Ai TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165061
+
+"""BIOSKOP"""
+
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298578
+#EXTINF:-1 group-title="BIOSKOP",ID: Vision Prime
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197958
+#EXTINF:-1 group-title="BIOSKOP",ID: Warner TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157594
+#EXTINF:-1 group-title="BIOSKOP",ID: Zee Bioskop
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157584
+#EXTINF:-1 group-title="BIOSKOP",ID: ZooMoo
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264751
+
+#EXTINF:-1 group-title="BIOSKOP",ID: Bioskop Indonesia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264801
+#EXTINF:-1 group-title="BIOSKOP",ID: CCM
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165103
+#EXTINF:-1 group-title="BIOSKOP",ID: Celestial Movies
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165065
+#EXTINF:-1 group-title="BIOSKOP",ID: Chinese Drama
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298516
+#EXTINF:-1 group-title="BIOSKOP",ID: CinemaWorld
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165082
+#EXTINF:-1 group-title="BIOSKOP",ID: Cinemax
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
+#EXTINF:-1 group-title="BIOSKOP",ID: Citra Bioskop
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298519
+#EXTINF:-1 group-title="BIOSKOP",ID: Citra Dangdut
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247446
+#EXTINF:-1 group-title="BIOSKOP",ID: Citra Drama
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264748
+#EXTINF:-1 group-title="BIOSKOP",ID: Citra Entertainment
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298520
+#EXTINF:-1 group-title="BIOSKOP",ID: Dunia Anak
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264753
+#EXTINF:-1 group-title="BIOSKOP",ID: Dunia Lain
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298524
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157581
+#EXTINF:-1 group-title="BIOSKOP",ID: Etv Bioskop
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
+#EXTINF:-1 group-title="BIOSKOP",ID: Etv Bioskop 02
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
+#EXTINF:-1 group-title="BIOSKOP",ID: Etv Bioskop 03
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
+#EXTINF:-1 group-title="BIOSKOP",ID: Etv Bioskop 04
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298529
+
+#EXTINF:-1 group-title="BIOSKOP",ID: Thrill
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157580
+#EXTINF:-1 group-title="BIOSKOP",ID: TLC
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165086
+
+"""CAMPUR"""
+
+
+#EXTINF:-1 group-title="CAMPUR",ID: Miao Mi
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264756
+#EXTINF:-1 group-title="CAMPUR",ID: MQTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298551
+#EXTINF:-1 group-title="CAMPUR",ID: MTA 7 Asia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162522
+#EXTINF:-1 group-title="CAMPUR",ID: MTA TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298552
+#EXTINF:-1 group-title="CAMPUR",ID: Music TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165108
+#EXTINF:-1 group-title="CAMPUR",ID: My Cinema
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298553
+#EXTINF:-1 group-title="CAMPUR",ID: My Cinema Asia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298554
+#EXTINF:-1 group-title="CAMPUR",ID: My Kidz
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298556
+#EXTINF:-1 group-title="CAMPUR",ID: NBA TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298558
+#EXTINF:-1 group-title="CAMPUR",ID: Net
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/80292
+#EXTINF:-1 group-title="CAMPUR",ID: NHK World
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298560
+#EXTINF:-1 group-title="CAMPUR",ID: Nick Jr
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165107
+#EXTINF:-1 group-title="CAMPUR",ID: Nick Jr EN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298561
+#EXTINF:-1 group-title="CAMPUR",ID: nickelodeon
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162510
+
+#EXTINF:-1 group-title="CAMPUR",ID: ONE
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298563
+
+"""DOCUMENTERY"""
+
+#EXTINF:-1 group-title="DOCUMENTERY",ID: History
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162519
+
+#EXTINF:-1 group-title="DOCUMENTERY",MY: Crime+ Investigation
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157554
+#EXTINF:-1 group-title="DOCUMENTERY",MY: Discovery Science
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157530
+#EXTINF:-1 group-title="DOCUMENTERY",MY: Discovery World
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157528
+#EXTINF:-1 group-title="DOCUMENTERY",ID: ANIMAL PLANET
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157532
+#EXTINF:-1 group-title="DOCUMENTERY",ID: CGTN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298510
+#EXTINF:-1 group-title="DOCUMENTERY",ID: CGTN Documentary
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298511
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Discovery Asia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197968
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Discovery World
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157597
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298556
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Nat Geo
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165094
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Nat Geo Wild
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197967
+
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Life
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157585
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Lifestyle & Fashion
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157592
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Lifetime
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298543
+#EXTINF:-1 group-title="DOCUMENTERY",ID: Love Nature
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264756
+
+"""DUNIA"""
+
+#EXTINF:-1 group-title="DUNIA",ID: Arirang
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247447
+#EXTINF:-1 group-title="DUNIA",ID: Asian Food Network
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298503
+#EXTINF:-1 group-title="DUNIA",ID: BBC Earth
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165106
+#EXTINF:-1 group-title="DUNIA",ID: BBC Lifestyle
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264747
+#EXTINF:-1 group-title="DUNIA",ID: Bloomberg TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157599
+#EXTINF:-1 group-title="DUNIA",ID: Channel News Asia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157602
+#EXTINF:-1 group-title="DUNIA",MY: HGTV Asia
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157553
+#EXTINF:-1 group-title="DUNIA",MY: BBC Earth
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/171979
+
+#EXTINF:-1 group-title="DUNIA",MY: Disney XD
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157544
+
+#EXTINF:-1 group-title="DUNIA",MY: Hits
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157545
+#EXTINF:-1 group-title="DUNIA",MY: Local Now Family Flix
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/296889
+#EXTINF:-1 group-title="DUNIA",MY: Nick Jr
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157546
+
+#EXTINF:-1 group-title="DUNIA",MY: TV Alhijrah
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157491
+
+#EXTINF:-1 group-title="DUNIA",MY: Warner TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157550
+#EXTINF:-1 group-title="DUNIA",ID: SEA Today
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298568
+#EXTINF:-1 group-title="DUNIA",ID: Smithsonian Channel
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264767
+#EXTINF:-1 group-title="DUNIA",ID: Sony One
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165077
+
+"""HIBURAN"""
+
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165095
+#EXTINF:-1 group-title="HIBURAN",ID: FMN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165057
+#EXTINF:-1 group-title="HIBURAN",ID: Fox Crime
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165076
+#EXTINF:-1 group-title="HIBURAN",ID: Galaxy
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264773
+#EXTINF:-1 group-title="HIBURAN",ID: Galaxy Premium
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264774
+#EXTINF:-1 group-title="HIBURAN",ID: GEM
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298533
+#EXTINF:-1 group-title="HIBURAN",ID: Golf
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298534
+
+#EXTINF:-1 group-title="HIBURAN",ID: HBO
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
+#EXTINF:-1 group-title="HIBURAN",ID: HBO Family
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
+#EXTINF:-1 group-title="HIBURAN",ID: HBO Hits
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
+#EXTINF:-1 group-title="HIBURAN",ID: HBO Signature
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
+#EXTINF:-1 group-title="HIBURAN",ID: HGTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298535
+#EXTINF:-1 group-title="HIBURAN",ID: Hip Hip Horee!
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298536
+#EXTINF:-1 group-title="HIBURAN",MY: Bloomberg TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157533
+#EXTINF:-1 group-title="HIBURAN",MY: Boomerang
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/171955
+#EXTINF:-1 group-title="HIBURAN",MY: Celestial Movies
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/174687
+#EXTINF:-1 group-title="HIBURAN",MY: TVN Movies
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/297499
+#EXTINF:-1 group-title="HIBURAN",MY: AXN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157542
+#EXTINF:-1 group-title="HIBURAN",ID: TVN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197965
+#EXTINF:-1 group-title="HIBURAN",ID: TVN Movies
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157596
+#EXTINF:-1 group-title="HIBURAN",ID: Reformed 21
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/174574
+#EXTINF:-1 group-title="HIBURAN",ID: Rock Action
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298490
+#EXTINF:-1 group-title="HIBURAN",ID: Rock Entertaiment
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298565
+#EXTINF:-1 group-title="HIBURAN",ID: Rock Extreme
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298566
+
+#EXTINF:-1 group-title="HIBURAN",ID: FLIK
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165095
+
+#EXTINF:-1 group-title="HIBURAN",ID: Hits
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165085
+#EXTINF:-1 group-title="HIBURAN",ID: Hits Movies
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221947
+#EXTINF:-1 group-title="HIBURAN",ID: Horee!
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264750
+#EXTINF:-1 group-title="HIBURAN",ID: Hunan TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247443
+#EXTINF:-1 group-title="HIBURAN",ID: I AM Channel
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/287423
+#EXTINF:-1 group-title="HIBURAN",ID: I Konser
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264760
+#EXTINF:-1 group-title="HIBURAN",ID: IDX
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157590
+#EXTINF:-1 group-title="HIBURAN",ID: Ie
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157582
+#EXTINF:-1 group-title="HIBURAN",ID: IMC
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264769
+
+
+
+
+
+"""DAERAH"""
+
+#EXTINF:-1 group-title="TV DAERAH",ID: Infotainment
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298541
+#EXTINF:-1 group-title="TV DAERAH",ID: Insert
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264766
+#EXTINF:-1 group-title="TV DAERAH",ID: Izzah TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/275984
+#EXTINF:-1 group-title="TV DAERAH",ID: Jak TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157601
+#EXTINF:-1 group-title="TV DAERAH",ID: Jakarta Globe News
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166399
+#EXTINF:-1 group-title="TV DAERAH",ID: JTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165091
+#EXTINF:-1 group-title="TV DAERAH",ID: K+
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197969
+#EXTINF:-1 group-title="TV DAERAH",ID: KBS World
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197053
+#EXTINF:-1 group-title="TV DAERAH",ID: Kids TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162505
+#EXTINF:-1 group-title="TV DAERAH",ID: KIX
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165068
+#EXTINF:-1 group-title="TV DAERAH",ID: Nusantara TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166410
+#EXTINF:-1 group-title="TV DAERAH",ID: OK TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221956
+#EXTINF:-1 group-title="TV DAERAH",ID: My Family
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298555
+
+#EXTINF:-1 group-title="TV DAERAH",ID: Tegar TV Lampung
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166411
+#EXTINF:-1 group-title="TV DAERAH",ID: Padang TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162140
+#EXTINF:-1 group-title="TV DAERAH",ID: Bali TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197962
+#EXTINF:-1 group-title="TV DAERAH",ID: TV 9 Nusantara
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162509
+#EXTINF:-1 group-title="TV DAERAH",ID: TV Mu
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196459
+#EXTINF:-1 group-title="TV DAERAH",ID: Paramount Network
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298564
+#EXTINF:-1 group-title="TV DAERAH",ID: Prambors
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264761
+#EXTINF:-1 group-title="TV DAERAH",ID: Rajawali TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196457
+#EXTINF:-1 group-title="TV DAERAH",ID: RB TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266810
+
+#EXTINF:-1 group-title="TV DAERAH",ID: Rodja TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264758
+#EXTINF:-1 group-title="TV DAERAH",ID: RRI Net
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266816
+
+
+"""TVRI"""
+
+#EXTINF:-1 group-title="TVRI",ID: TVRI
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162504
+#EXTINF:-1 group-title="TVRI",ID: TVRI Gorontalo
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166698
+#EXTINF:-1 group-title="TVRI",ID: TVRI Jambi
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166692
+#EXTINF:-1 group-title="TVRI",ID: TVRI Jawa Barat
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166688
+#EXTINF:-1 group-title="TVRI",ID: TVRI Kalimantan Barat
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166701
+#EXTINF:-1 group-title="TVRI",ID: TVRI Sport
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166686
+#EXTINF:-1 group-title="TVRI",ID: TVRI Sulawesi Selatan
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166699
+#EXTINF:-1 group-title="TVRI",ID: TVRI World
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/295291
+
+"""USEETV"""
+
+#EXTINF:-1 group-title="USE TV",ID: U Channel
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162146
+#EXTINF:-1 group-title="USE TV",ID: Usee Prime
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162524
+#EXTINF:-1 group-title="USE TV",ID: Usee Sport 1
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298577
+#EXTINF:-1 group-title="USE TV",ID: Usee Sport 2
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@Television_INDONESIAN",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://eroz84.wap.sh/local/tvri_sport.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",TRANS 7(detik)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",TRANS TV(detik)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.BeritaSatu.id" tvg-name="BeritaSatu" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-url="" group-title="ShareExt@Television_INDONESIAN",BeritaSatu(ott)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="ShareExt@Television_INDONESIAN",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="ShareExt@Television_INDONESIAN",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-101 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-102 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-103 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+
+
+
+
+
+
+///////////////Internasional////////////////
+
+
+
+
+#EXTINF:-101 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-102 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-103 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="Internasional", CNA
+http://rr.dens.tv/h/h29/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CNA
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="Internasional", NHK world
+http://rr.dens.tv/h/h23/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NHK_WORLD-JAPAN
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="Internasional", CCTV 4
+http://rr2.dens.tv/s/s19/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="Internasional", TRT world
+http://rr.dens.tv/h/h156/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="Internasional", WION
+http://rr.dens.tv/h/h91/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="Internasional", UA
+http://rr.dens.tv/h/h101/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=UA%7CTV
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg" group-title="Internasional", Al Jazeera
+http://rr2.dens.tv/s/s17/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_English
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="Internasional", France 24
+http://rr2.dens.tv/s/s22/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=France_24
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" group-title="Internasional", TV5 monde
+http://rr1.dens.tv/s/s212/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_ASIE
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg" group-title="Internasional", DW  TV http://rr3.dens.tv/s/s25/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DW-TV
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg" group-title="Internasional", TBN
+http://rr2.dens.tv/s/s39/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TBN
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg" group-title="Internasional", CGTN documentary
+http://rr2.dens.tv/s/s20/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CGTN_Documentary
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg" group-title="Internasional", Quran tv
+http://rr2.dens.tv/s/s28/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Quran_TV
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg" group-title="Internasional", Sunnah tv
+http://rr2.dens.tv/s/s27/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Sunna_TV
+
+"IPTV"
+
+#EXTINF:-1 group-title="IPTV",ID: ANTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165072
+#EXTINF:-1 group-title="IPTV",ID: GTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157578
+#EXTINF:-1 group-title="IPTV",ID: Indosiar
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
+#EXTINF:-1 group-title="IPTV",ID: INews
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157579
+#EXTINF:-1 group-title="IPTV",ID: Trans 7
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162502
+#EXTINF:-1 group-title="IPTV",ID: Trans TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162503
+#EXTINF:-1 group-title="IPTV",ID: TV One
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/296214
+#EXTINF:-1 group-title="IPTV",ID: SCTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162141
+#EXTINF:-1 group-title="IPTV",ID: RCTI
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157591
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266805
+#EXTINF:-1 group-title="IPTV",ID: MNC News
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165058
+
+#EXTINF:-1 group-title="IPTV",ID: MNC TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
+#EXTINF:-1 group-title="IPTV",ID: Moji
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298550
+#EXTINF:-1 group-title="IPTV",ID: Mentari TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
+#EXTINF:-1 group-title="IPTV",ID: Metro TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165059
+#EXTINF:-1 group-title="IPTV",ID: Kompas TV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165060
+#EXTINF:-1 group-title="IPTV",ID: AXN
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165079
+
+
+
